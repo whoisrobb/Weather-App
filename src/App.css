@@ -1,0 +1,17 @@
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ccc;
+}
+ul li {
+  padding: 5px;
+  cursor: pointer;
+}
+ul li:hover {
+  background-color: #cacaca;
+}
+
+.selected {
+  background-color: #53b2ff;
+}/*# sourceMappingURL=App.css.map */
